@@ -52,12 +52,12 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 **Exercise:** Create a dictionary with `name`, `age`, and `city` keys. ✅
 
 ---
-### **Day 7: If-Else Statements & Conditions**
-- `if`, `elif`, `else`
-- Comparison Operators (`>`, `<`, `>=`, `<=`, `==`, `!=`)
-- Logical Operators (`and`, `or`, `not`)
+### **Day 7: If-Else Statements & Conditions** (Done ✅)
+- `if`, `elif`, `else` ✅
+- Comparison Operators (`>`, `<`, `>=`, `<=`, `==`, `!=`) ✅
+- Logical Operators (`and`, `or`, `not`) ✅
 
-**Exercise:** Take age as input and check if the user is eligible to drive.
+**Exercise:** Take age as input and check if the user is eligible to drive. ✅
 
 ---
 ### **Day 8: Loops (for & while)**
