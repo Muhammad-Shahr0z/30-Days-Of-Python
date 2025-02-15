@@ -31,11 +31,11 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 **Exercise:** Take a user name input and print it in uppercase & lowercase. ✅
 
 ---
-### **Day 4: Lists & List Methods**
-- Lists (`[]`)
-- List Methods (`append()`, `remove()`, `pop()`, `sort()`, `reverse()`)
+### **Day 4: Lists & List Methods** (DONE ✅)
+- Lists (`[]`)✅
+- List Methods (`append()`, `remove()`, `pop()`, `sort()`, `reverse()`) ✅
 
-**Exercise:** Create a list of 5 cities and add another city to it.
+**Exercise:** Create a list of 5 cities and add another city to it.✅
 
 ---
 ### **Day 5: Tuples & Sets**
