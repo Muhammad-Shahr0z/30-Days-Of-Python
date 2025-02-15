@@ -37,19 +37,19 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 
 **Exercise:** Create a list of 5 cities and add another city to it.✅
 
+--- 
+### **Day 5: Tuples & Sets**  (Done ✅)
+- Tuples (`()`) - Immutable Lists ✅
+- Sets (`{}`) - Unique Values Only ✅
+
+**Exercise:** Create a tuple with 3 fruits and a set with duplicate numbers.✅
+
 ---
-### **Day 5: Tuples & Sets**
-- Tuples (`()`) - Immutable Lists
-- Sets (`{}`) - Unique Values Only
+### **Day 6: Dictionaries & Key-Value Pairs** (Done ✅)
+- Dictionaries (`{key: value}`) ✅
+- Dictionary Methods (`keys()`, `values()`, `items()`, `get()`) ✅
 
-**Exercise:** Create a tuple with 3 fruits and a set with duplicate numbers.
-
----
-### **Day 6: Dictionaries & Key-Value Pairs**
-- Dictionaries (`{key: value}`)
-- Dictionary Methods (`keys()`, `values()`, `items()`, `get()`)
-
-**Exercise:** Create a dictionary with `name`, `age`, and `city` keys.
+**Exercise:** Create a dictionary with `name`, `age`, and `city` keys. ✅
 
 ---
 ### **Day 7: If-Else Statements & Conditions**
