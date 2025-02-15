@@ -21,6 +21,9 @@ print(cities)
 cities.sort()
 print(cities)
 
+cities.insert(0,"Hydrabad")
+print(cities)
+
 
 cities.reverse()
 print(cities)
