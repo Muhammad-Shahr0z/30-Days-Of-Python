@@ -15,12 +15,12 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 **Exercise:** Print your name, age, and city. Perform basic arithmetic operations.✅
 
 ---
-### **Day 2: Basic Operators & Input**
-- Arithmetic Operators (`+`, `-`, `*`, `/`, `%`)
-- User Input (`input()`)
-- Type Conversion (`int()`, `float()`, `str()`)
+### **Day 2: Basic Operators & Input** (Done ✅)
+- Arithmetic Operators (`+`, `-`, `*`, `/`, `%`) ✅
+- User Input (`input()`) ✅
+- Type Conversion (`int()`, `float()`, `str()`) ✅
 
-**Exercise:** Take two numbers as input and print their sum and product.
+**Exercise:** Take two numbers as input and print their sum and product. ✅
 
 ---
 ### **Day 3: Strings & String Methods**
