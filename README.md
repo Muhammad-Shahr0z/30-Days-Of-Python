@@ -23,12 +23,12 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 **Exercise:** Take two numbers as input and print their sum and product. ✅
 
 ---
-### **Day 3: Strings & String Methods**
-- String Concatenation
-- String Methods (`upper()`, `lower()`, `title()`, `strip()`, `replace()`)
-- String Formatting (`f"Hello {name}"`)
+### **Day 3: Strings & String Methods** (Done ✅)
+- String Concatenation ✅
+- String Methods (`upper()`, `lower()`, `title()`, `strip()`, `replace()`) ✅
+- String Formatting (`f"Hello {name}"`) ✅
 
-**Exercise:** Take a user name input and print it in uppercase & lowercase.
+**Exercise:** Take a user name input and print it in uppercase & lowercase. ✅
 
 ---
 ### **Day 4: Lists & List Methods**
