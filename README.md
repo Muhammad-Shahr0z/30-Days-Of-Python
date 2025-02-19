@@ -60,12 +60,12 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 **Exercise:** Take age as input and check if the user is eligible to drive. ✅
 
 ---
-### **Day 8: Loops (for & while)**
-- `for` loop
-- `while` loop
-- `break`, `continue`
+### **Day 8: Loops (for & while)** (Done ✅)
+- `for` loop  ✅
+- `while` loop ✅
+- `break`, `continue` ✅
 
-**Exercise:** Print numbers from 1 to 10 using a `for` loop.
+**Exercise:** Print numbers from 1 to 10 using a `for` loop.  ✅
 
 ---
 ### **Day 9: Functions & Arguments**
