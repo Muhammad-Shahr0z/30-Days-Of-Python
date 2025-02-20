@@ -68,19 +68,19 @@ Welcome to the **30 Days of Python Challenge**! This challenge is designed for b
 **Exercise:** Print numbers from 1 to 10 using a `for` loop.  ✅
 
 ---
-### **Day 9: Functions & Arguments**
-- Defining Functions (`def function_name():`)
-- Parameters & Arguments
-- Return Statement
+### **Day 9: Functions & Arguments**  (Done ✅)
+- Defining Functions (`def function_name():`)   (Done ✅)
+- Parameters & Arguments (Done ✅)
+- Return Statement  (Done ✅)
 
-**Exercise:** Create a function that returns the sum of two numbers.
+**Exercise:** Create a function that returns the sum of two numbers. (Done ✅)
 
 ---
-### **Day 10: Lists with Loops**
-- Loop through Lists
-- List Comprehensions (`[x for x in list if condition]`)
+### **Day 10: Lists with Loops**   (Done ✅)
+- Loop through Lists   (Done ✅)
+- List Comprehensions (`[x for x in list if condition]`)   (Done ✅)
 
-**Exercise:** Print the squares of all numbers in a list.
+**Exercise:** Print the squares of all numbers in a list.    (Done ✅)
 
 ---
 ### **Day 11: Lambda Functions & Map/Filter**
