@@ -1,3 +1,7 @@
+#Word Counter App
+
+
+
 word = input("Enter your word to count: ")
 
 wordList= word.split()
